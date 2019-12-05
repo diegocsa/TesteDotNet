@@ -1,0 +1,9 @@
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\bin\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.deps.json
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\bin\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\bin\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\obj\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.csprojAssemblyReference.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\obj\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\obj\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.AssemblyInfoInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\obj\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.AssemblyInfo.cs
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\obj\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.InterfacesEEntidades\obj\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.pdb

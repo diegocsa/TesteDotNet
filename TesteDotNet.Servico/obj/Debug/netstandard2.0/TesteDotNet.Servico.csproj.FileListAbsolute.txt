@@ -1,0 +1,12 @@
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\bin\Debug\netstandard2.0\TesteDotNet.Servico.deps.json
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\bin\Debug\netstandard2.0\TesteDotNet.Servico.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\bin\Debug\netstandard2.0\TesteDotNet.Servico.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\obj\Debug\netstandard2.0\TesteDotNet.Servico.csprojAssemblyReference.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\obj\Debug\netstandard2.0\TesteDotNet.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\obj\Debug\netstandard2.0\TesteDotNet.Servico.AssemblyInfoInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\obj\Debug\netstandard2.0\TesteDotNet.Servico.AssemblyInfo.cs
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\obj\Debug\netstandard2.0\TesteDotNet.Servico.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\obj\Debug\netstandard2.0\TesteDotNet.Servico.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\bin\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\bin\Debug\netstandard2.0\TesteDotNet.InterfacesEEntidades.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Servico\obj\Debug\netstandard2.0\TesteDotNet.Servico.csproj.CopyComplete

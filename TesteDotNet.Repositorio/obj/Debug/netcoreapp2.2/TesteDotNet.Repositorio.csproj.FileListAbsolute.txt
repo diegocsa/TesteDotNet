@@ -1,0 +1,14 @@
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\bin\Debug\netcoreapp2.2\TesteDotNet.Repositorio.deps.json
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\bin\Debug\netcoreapp2.2\TesteDotNet.Repositorio.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\obj\Debug\netcoreapp2.2\TesteDotNet.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\obj\Debug\netcoreapp2.2\TesteDotNet.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\obj\Debug\netcoreapp2.2\TesteDotNet.Repositorio.AssemblyInfo.cs
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\obj\Debug\netcoreapp2.2\TesteDotNet.Repositorio.csprojAssemblyReference.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\bin\Debug\netcoreapp2.2\TesteDotNet.Repositorio.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\bin\Debug\netcoreapp2.2\TesteDotNet.InterfacesEEntidades.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\bin\Debug\netcoreapp2.2\TesteDotNet.InterfacesEEntidades.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\obj\Debug\netcoreapp2.2\TesteDotNet.Repositorio.csproj.CopyComplete
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\obj\Debug\netcoreapp2.2\TesteDotNet.Repositorio.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\obj\Debug\netcoreapp2.2\TesteDotNet.Repositorio.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\bin\Debug\netcoreapp2.2\TesteDotNet.Repositorio.runtimeconfig.json
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Repositorio\bin\Debug\netcoreapp2.2\TesteDotNet.Repositorio.runtimeconfig.dev.json

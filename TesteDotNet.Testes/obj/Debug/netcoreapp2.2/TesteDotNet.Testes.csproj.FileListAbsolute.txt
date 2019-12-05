@@ -1,0 +1,16 @@
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.Testes.deps.json
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.Testes.runtimeconfig.json
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.Testes.runtimeconfig.dev.json
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.Testes.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\obj\Debug\netcoreapp2.2\TesteDotNet.Testes.csprojAssemblyReference.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\obj\Debug\netcoreapp2.2\TesteDotNet.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\obj\Debug\netcoreapp2.2\TesteDotNet.Testes.AssemblyInfoInputs.cache
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\obj\Debug\netcoreapp2.2\TesteDotNet.Testes.AssemblyInfo.cs
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.Testes.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.Aplicacao.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.InterfacesEEntidades.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.Aplicacao.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\bin\Debug\netcoreapp2.2\TesteDotNet.InterfacesEEntidades.pdb
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\obj\Debug\netcoreapp2.2\TesteDotNet.Testes.csproj.CopyComplete
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\obj\Debug\netcoreapp2.2\TesteDotNet.Testes.dll
+C:\Users\Diego Cordeiro\Desktop\VOlvo\TesteDotNet.Testes\obj\Debug\netcoreapp2.2\TesteDotNet.Testes.pdb

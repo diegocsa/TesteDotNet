@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.InterfacesEEntidades\\TesteDotNet.InterfacesEEntidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.InterfacesEEntidades\\TesteDotNet.InterfacesEEntidades.csproj",
+        "projectName": "TesteDotNet.InterfacesEEntidades",
+        "projectPath": "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.InterfacesEEntidades\\TesteDotNet.InterfacesEEntidades.csproj",
+        "packagesPath": "C:\\Users\\Diego Cordeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.InterfacesEEntidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Diego Cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj",
+        "projectName": "TesteDotNet.Servico",
+        "projectPath": "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj",
+        "packagesPath": "C:\\Users\\Diego Cordeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.Servico\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Diego Cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.InterfacesEEntidades\\TesteDotNet.InterfacesEEntidades.csproj": {
+                "projectPath": "C:\\Users\\Diego Cordeiro\\Desktop\\VOlvo\\TesteDotNet.InterfacesEEntidades\\TesteDotNet.InterfacesEEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

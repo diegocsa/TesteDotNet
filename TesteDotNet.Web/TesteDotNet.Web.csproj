@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteDotNet.InterfacesEEntidades\TesteDotNet.InterfacesEEntidades.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Aplicacao\TesteDotNet.Aplicacao.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Repositorio\TesteDotNet.Repositorio.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Servico\TesteDotNet.Servico.csproj" />
+  </ItemGroup>
+
+</Project>

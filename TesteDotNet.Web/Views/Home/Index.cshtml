@@ -1,0 +1,42 @@
+﻿@model CaminhoesIndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+    <div class="text-center">
+        <h1 class="display-4">Caminhões</h1>
+        <a href="/home/cadastro" class="btn btn-primary mb-2">Cadastrar</a>
+
+        @if (Model.CaminhoesCadastrados == null || Model.CaminhoesCadastrados.Count() == 0)
+        {
+            <div id="cookieConsent" class="alert alert-info alert-dismissible fade show" role="alert">
+                Nenhum caminhão cadastrado ainda
+            </div>
+        }
+        else
+        {
+            <table>
+                <tr>
+                    <td>Descrição</td>
+                    <td>Modelo</td>
+                    <td>Ano de fabricação</td>
+                    <td>Ano do modelo</td>
+                    <td></td>
+                </tr>
+                @foreach (var item in Model.CaminhoesCadastrados)
+                {
+                    <tr>
+                        <td>@item.Descricao</td>
+                        <td>@item.Modelo</td>
+                        <td>@item.AnoFabricacao</td>
+                        <td>@item.AnoModelo</td>
+                        <td><a href="/Home/Alterar/@item.Id">Alterar</a></td>
+                    </tr>
+                }
+
+            </table>
+        }
+
+    </div>
